@@ -1,3 +1,5 @@
+#To load animated file from path
+
 import streamlit as st
 import json
 from streamlit_lottie import st_lottie as lt 
